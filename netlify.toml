@@ -1,0 +1,8 @@
+[build]
+  publish = "public/dist"
+  functions = "netlify/functions"
+
+[dev]
+  command = "vite"
+  functions = "netlify/functions"
+  

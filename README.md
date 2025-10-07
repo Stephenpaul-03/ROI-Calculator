@@ -12,3 +12,5 @@
 ## Key Feature
   * PDF or HTML inputs can be downloaded provided an Valid Email Address is Used.
 
+  ### NOTE:
+    Currently the backend and frontend are not communicating hence not working
